@@ -3,9 +3,13 @@
 Prerequisites
 
  > Android studio ( Create Emulator )
+
  > Install latest node LTS
+
  > Install Angular latest CLI "npm install -g @angular/cli"
+
  > Install Ionic CLI "npm i -g @ionic/cli"
+
 
 
 1. Run "npm i"
